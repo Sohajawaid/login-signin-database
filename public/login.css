@@ -1,0 +1,11 @@
+*{
+    background-color: cadetblue;
+}
+.btn{
+    background-color: azure;
+    color: black ;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label{
+    width: 100px;
+}
